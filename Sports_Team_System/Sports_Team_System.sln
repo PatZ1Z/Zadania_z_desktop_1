@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sports_Team_System", "Sports_Team_System\Sports_Team_System.csproj", "{DFE5E85F-7BC3-47A8-B61E-1BE3330864D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE5E85F-7BC3-47A8-B61E-1BE3330864D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE5E85F-7BC3-47A8-B61E-1BE3330864D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE5E85F-7BC3-47A8-B61E-1BE3330864D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE5E85F-7BC3-47A8-B61E-1BE3330864D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
