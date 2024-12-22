@@ -1,0 +1,14 @@
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\bin\Debug\net9.0\Board_Game.exe
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\bin\Debug\net9.0\Board_Game.deps.json
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\bin\Debug\net9.0\Board_Game.runtimeconfig.json
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\bin\Debug\net9.0\Board_Game.dll
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\bin\Debug\net9.0\Board_Game.pdb
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.AssemblyInfoInputs.cache
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.AssemblyInfo.cs
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.csproj.CoreCompileInputs.cache
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.dll
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\refint\Board_Game.dll
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.pdb
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\Board_Game.genruntimeconfig.cache
+C:\Users\patry\RiderProjects\Board_Game\Board_Game\obj\Debug\net9.0\ref\Board_Game.dll
